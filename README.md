@@ -1,4 +1,4 @@
-# YouTap-PolicyaPolítica de Privacidad de YouTap
+# YouTap-Policy
 
 Última actualización: [06/06/2025]
 1. Introducción
